@@ -1,2 +1,2 @@
-# irda_rial
+# irda_train
 Train simulator
